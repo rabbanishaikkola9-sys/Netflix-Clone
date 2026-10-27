@@ -1,0 +1,6 @@
+{
+  "name": "Netflix Clone",
+  "description": "Watch TV Shows Online, Watch Movies Online. A pixel-perfect Netflix clone featuring trending rows, interactive video previews, movie details modal, search, watchlist, and video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
